@@ -1,5 +1,5 @@
 {
-  "name": "photo-frame",
+  "name": "photo-frame-cli",
   "version": "1.0.2",
   "description": "Generate a photo frame in accordance with the EXIF information of the picture",
   "main": "index.js",
